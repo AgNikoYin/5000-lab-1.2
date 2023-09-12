@@ -1,0 +1,77 @@
+---
+title: "simple_quarto_website"
+author: Congfei Yin
+date: 'September 11, 2023'
+toc: true
+number-sections: true
+bibliography: reference.bib
+---
+by Congfei Yin
+
+## Hanabi Ramen
+
+::: {layout-ncol=2}
+
+texts in column 1.
+
+texts in column 2.
+
+:::
+
+| Order items  | Quantity | Price | Total  |
+|:------------:|:---------|-------|:------:|
+|  Curry       |  1       |   15  |   15   |
+|  Fried rice  |  1       |   12  |   12   |
+|  Ramen       |  2       |   13  |   26   |
+
+> How we calculate total price: $$Total= Price$$
+
+
+
+* Hanabi Ramen[^1]
+    + Main dishes
+    + sides
+        - sushi
+        
+[^1]: Resteruant in Rosslyn
+
+## Beautiful Car
+
+- ![Honda S2000](https://www.carscoops.com/wp-content/uploads/2022/09/Honda-S2000-CR-14a-1024x555.jpg)
+- ![Mazda Rx7](https://ejwfh7pywrz.exactdn.com/wp-content/uploads/2023/04/mf_mazda_rx7_fc_fd_-6-1024x682.jpg?strip=all&lossy=1&quality=85&webp=85&ssl=1)
+-{{< video youtube.com/watch?v=kAyTAy93vBk >}}
+
+## Textures
+
+```{mermaid}
+flowchart LR
+  A[Georgetown] --> B(DSAN)
+  B --> C{Core classes}
+  C --> D[DSAN 5000]
+  C --> E[DSAN 5100]
+```
+---
+
+
+
+## This is a Quarto website.
+
+text1
+
+
+
+### To learn more about Quarto websites visit
+
+
+        
+$F=Ma$
+
+
+The .bst language is fairly flexible, but
+it’s meant to be programmed, except for simple
+changes, by reasonably experienced programmers.
+Patrick Daly’s custom-bib/makebst package, on
+the other hand, allows nonprogrammers, too, to create their own bibliography styles.
+[@patashnik1984bibtex].
+        
+<https://quarto.org/docs/websites>.

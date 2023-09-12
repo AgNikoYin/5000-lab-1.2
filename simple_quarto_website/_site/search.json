@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "slides/slides.html#jdm",
+    "href": "slides/slides.html#jdm",
+    "title": "Cool Cars",
+    "section": "JDM",
+    "text": "JDM\n\nToyota\nHonda\nNissan"
+  },
+  {
+    "objectID": "slides/slides.html#toyota",
+    "href": "slides/slides.html#toyota",
+    "title": "Cool Cars",
+    "section": "Toyota",
+    "text": "Toyota\n\nSupra\n\n\n\nSupra"
+  },
+  {
+    "objectID": "slides/slides.html#nissan",
+    "href": "slides/slides.html#nissan",
+    "title": "Cool Cars",
+    "section": "Nissan",
+    "text": "Nissan\n\nFairlady Z\n\n\n\nFairlady Z"
+  },
+  {
+    "objectID": "slides/slides.html#quote",
+    "href": "slides/slides.html#quote",
+    "title": "Cool Cars",
+    "section": "Quote",
+    "text": "Quote\nThe .bst language is fairly flexible, but it’s meant to be programmed, except for simple changes, by reasonably experienced programmers. Patrick Daly’s custom-bib/makebst package, on the other hand, allows nonprogrammers, too, to create their own bibliography styles. (Patashnik 1984)."
+  },
+  {
+    "objectID": "slides/slides.html#plot",
+    "href": "slides/slides.html#plot",
+    "title": "Cool Cars",
+    "section": "Plot",
+    "text": "Plot"
+  },
+  {
+    "objectID": "slides/slides.html#bib",
+    "href": "slides/slides.html#bib",
+    "title": "Cool Cars",
+    "section": "Bib",
+    "text": "Bib\n\n\n\n\n\n\nPatashnik, Oren. 1984. “BIBTEX 101.” TUGboat 15: 269–73."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This text is for componet-5\n\n\n\nimport matplotlib.pyplot as plt\nplt.plot([1, 2, 3, 4], [1, 4, 9, 16])"
+  },
+  {
+    "objectID": "about.html#section-1",
+    "href": "about.html#section-1",
+    "title": "About",
+    "section": "",
+    "text": "This text is for componet-5\n\n\n\nimport matplotlib.pyplot as plt\nplt.plot([1, 2, 3, 4], [1, 4, 9, 16])"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "by Congfei Yin"
+  },
+  {
+    "objectID": "index.html#hanabi-ramen",
+    "href": "index.html#hanabi-ramen",
+    "title": "simple_quarto_website",
+    "section": "1 Hanabi Ramen",
+    "text": "1 Hanabi Ramen\n\n\n\ntexts in column 1.\n\n\ntexts in column 2.\n\n\n\n\n\n\nOrder items\nQuantity\nPrice\nTotal\n\n\n\n\nCurry\n1\n15\n15\n\n\nFried rice\n1\n12\n12\n\n\nRamen\n2\n13\n26\n\n\n\n\nHow we calculate total price: \\[Total= Price\\]\n\n\nHanabi Ramen1\n\nMain dishes\nsides\n\nsushi"
+  },
+  {
+    "objectID": "index.html#beautiful-car",
+    "href": "index.html#beautiful-car",
+    "title": "simple_quarto_website",
+    "section": "2 Beautiful Car",
+    "text": "2 Beautiful Car\n\n\n\n\nHonda S2000\n\n\n -"
+  },
+  {
+    "objectID": "index.html#textures",
+    "href": "index.html#textures",
+    "title": "simple_quarto_website",
+    "section": "3 Textures",
+    "text": "3 Textures\n\n\n\n\nflowchart LR\n  A[Georgetown] --&gt; B(DSAN)\n  B --&gt; C{Core classes}\n  C --&gt; D[DSAN 5000]\n  C --&gt; E[DSAN 5100]"
+  },
+  {
+    "objectID": "index.html#this-is-a-quarto-website.",
+    "href": "index.html#this-is-a-quarto-website.",
+    "title": "simple_quarto_website",
+    "section": "4 This is a Quarto website.",
+    "text": "4 This is a Quarto website.\ntext1\n\n4.1 To learn more about Quarto websites visit\n\\(F=Ma\\)\nThe .bst language is fairly flexible, but it’s meant to be programmed, except for simple changes, by reasonably experienced programmers. Patrick Daly’s custom-bib/makebst package, on the other hand, allows nonprogrammers, too, to create their own bibliography styles. (Patashnik 1984).\nhttps://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "simple_quarto_website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nResteruant in Rosslyn↩︎"
+  }
+]
